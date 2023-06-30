@@ -70,7 +70,7 @@ contract Nothing_Presale {
     rate = _rate;
     token = _token;
     weiMaxPurchaseBnb = _max;
-    admin = 0xbC44469ab048768091522F1b1a0184fC62541F6F;
+    admin = 0x9a0D8e9f6e9931CEDCFdce96d4647B2C1B10c60e;
   }
   fallback () external payable {
     revert();    

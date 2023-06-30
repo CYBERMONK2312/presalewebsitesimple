@@ -783,7 +783,6 @@ img {
     margin: 5px 0;
   }
   
-  /* Estilos específicos para los párrafos de SoftCap y HardCap */
   p:nth-of-type(2),
   p:nth-of-type(3) {
     font-weight: bold;
